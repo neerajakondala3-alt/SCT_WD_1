@@ -31,7 +31,7 @@ SCT_WD_1/
 
 ## 🌐 Live Demo
 
-
+ https://neerajakondala3-alt.github.io/SCT_WD_1/
 
 ## 🔗 GitHub Repository
 
